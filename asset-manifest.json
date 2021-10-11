@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/starwars-characters-redux-saga/static/css/main.da1aa4a8.chunk.css",
+    "main.js": "/starwars-characters-redux-saga/static/js/main.52b6d073.chunk.js",
+    "main.js.map": "/starwars-characters-redux-saga/static/js/main.52b6d073.chunk.js.map",
+    "runtime-main.js": "/starwars-characters-redux-saga/static/js/runtime-main.74feb61e.js",
+    "runtime-main.js.map": "/starwars-characters-redux-saga/static/js/runtime-main.74feb61e.js.map",
+    "static/js/2.9cd0369d.chunk.js": "/starwars-characters-redux-saga/static/js/2.9cd0369d.chunk.js",
+    "static/js/2.9cd0369d.chunk.js.map": "/starwars-characters-redux-saga/static/js/2.9cd0369d.chunk.js.map",
+    "index.html": "/starwars-characters-redux-saga/index.html",
+    "static/css/main.da1aa4a8.chunk.css.map": "/starwars-characters-redux-saga/static/css/main.da1aa4a8.chunk.css.map",
+    "static/js/2.9cd0369d.chunk.js.LICENSE.txt": "/starwars-characters-redux-saga/static/js/2.9cd0369d.chunk.js.LICENSE.txt",
+    "static/media/Star_Wars_Logo.35e7248b.svg": "/starwars-characters-redux-saga/static/media/Star_Wars_Logo.35e7248b.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.74feb61e.js",
+    "static/js/2.9cd0369d.chunk.js",
+    "static/css/main.da1aa4a8.chunk.css",
+    "static/js/main.52b6d073.chunk.js"
+  ]
+}
