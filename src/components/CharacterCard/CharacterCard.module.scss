@@ -1,0 +1,30 @@
+.wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  align-content: center;
+  justify-content: center;
+  max-width: 1920px;
+
+  .card {
+    flex: 1 1 15%;
+    border: 2px solid #084047;
+    max-width: 500px;
+    border-radius: 20px;
+    margin: 15px 30px;
+
+    h3,
+    p {
+      margin: 10px;
+      max-width: 300px;
+      padding: 0 10px;
+    }
+
+    a {
+      font-size: 1.3rem;
+      &:hover {
+        border-bottom: 3px solid cadetblue;
+      }
+    }
+  }
+}

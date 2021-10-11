@@ -1,0 +1,20 @@
+.wrapper {
+  display: flex;
+  justify-content: center;
+}
+.wrapper span {
+  padding: 10px;
+  cursor: pointer;
+  transition: transform 0.2s;
+}
+.wrapper span:hover {
+  transform: scale(1.5);
+}
+.wrapper span b {
+  background-color: #7c7c7c;
+  color: #fff;
+  padding: 3px;
+  border-radius: 8px;
+}
+
+/*# sourceMappingURL=CharactersPagination.module.css.map */

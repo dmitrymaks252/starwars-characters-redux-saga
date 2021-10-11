@@ -1,0 +1,22 @@
+.wrapper {
+  display: flex;
+  justify-content: center;
+
+  span {
+    padding: 10px;
+    cursor: pointer;
+    transition: transform .2s;
+
+    &:hover {
+      transform: scale(1.5);
+    }
+
+    b {
+      background-color: #7c7c7c;
+      color: #fff;
+      padding: 3px;
+      border-radius: 8px;
+    }
+  }
+}
+

@@ -1,0 +1,24 @@
+header {
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: space-between;
+  align-items: center;
+  margin: 0 30px;
+}
+header .logo {
+  max-width: 50px;
+  border-radius: 15px;
+  border: 1px solid #FFE81F;
+}
+header h1 {
+  font-size: 1.2rem;
+}
+header input {
+  padding: 8px;
+  border-radius: 15px;
+}
+header input::placeholder {
+  color: cadetblue;
+}
+
+/*# sourceMappingURL=Header.module.css.map */

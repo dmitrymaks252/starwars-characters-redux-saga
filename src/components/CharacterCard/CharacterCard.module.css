@@ -1,0 +1,29 @@
+.wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  align-content: center;
+  justify-content: center;
+  max-width: 1920px;
+}
+.wrapper .card {
+  flex: 1 1 15%;
+  border: 2px solid #084047;
+  max-width: 500px;
+  border-radius: 20px;
+  margin: 15px 30px;
+}
+.wrapper .card h3,
+.wrapper .card p {
+  margin: 10px;
+  max-width: 300px;
+  padding: 0 10px;
+}
+.wrapper .card a {
+  font-size: 1.3rem;
+}
+.wrapper .card a:hover {
+  border-bottom: 3px solid cadetblue;
+}
+
+/*# sourceMappingURL=CharacterCard.module.css.map */
