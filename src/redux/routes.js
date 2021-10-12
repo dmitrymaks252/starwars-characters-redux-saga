@@ -10,7 +10,7 @@ export const PEOPLE_DETAILS_ROUTE = "PEOPLE_DETAILS_ROUTE";
 export const routes = [
   {
     id: MAIN_ROUTE,
-    path: "/",
+    path: "/starwars-characters-redux-saga",
     exact: true,
     component: App
   },

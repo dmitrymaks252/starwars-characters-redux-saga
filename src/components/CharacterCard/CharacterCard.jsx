@@ -1,4 +1,4 @@
-import s from './CharacterCard.module.scss';
+import s from "./CharacterCard.module.scss";
 import { Link } from "react-router-dom";
 
 
@@ -11,7 +11,7 @@ const CharacterCard = ({people}) => {
         <div className={s.wrapper}>
           {
             people?.data?.results.map(character => {
-              const id = character.url.replaceAll(/\D/g, '');
+              const id = character.url.replaceAll(/\D/g, "");
 
               return (
                 <div className={s.card} key={id}>
